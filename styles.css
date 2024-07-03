@@ -36,10 +36,12 @@ header nav ul li a {
 
 .hero h2 {
     margin: 0;
+    color:black;
 }
 
 .hero p {
     font-size: 1.5rem;
+    color:black;
 }
 
 .btn {
